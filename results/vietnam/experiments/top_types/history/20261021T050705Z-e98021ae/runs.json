@@ -1,0 +1,524 @@
+[
+  {
+    "elapsed_s": 1.5275976000011724,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 109.45703125,
+    "idle_rss_mib": 78.609375,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2928000000010798,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 155.10546875,
+    "idle_rss_mib": 78.71484375,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2660003999990295,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 126.9140625,
+    "idle_rss_mib": 78.515625,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1852660000004107,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 194.8984375,
+    "idle_rss_mib": 78.54296875,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.900708499999382,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 417.82421875,
+    "idle_rss_mib": 78.7109375,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.15541250000023865,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 102.71875,
+    "idle_rss_mib": 78.5859375,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5888546999995015,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 109.8203125,
+    "idle_rss_mib": 78.4296875,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.4203751999993983,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 416.8515625,
+    "idle_rss_mib": 78.5234375,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2206077999999252,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 128.01171875,
+    "idle_rss_mib": 78.484375,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1454572000002372,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 195.7109375,
+    "idle_rss_mib": 78.49609375,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.12102849999973841,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 103.1484375,
+    "idle_rss_mib": 78.55859375,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2969661000006454,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 154.58203125,
+    "idle_rss_mib": 78.6171875,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.4725904000006267,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 110.43359375,
+    "idle_rss_mib": 78.45703125,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2300667999988946,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 153.6796875,
+    "idle_rss_mib": 78.44140625,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.1832887000000483,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 125.50390625,
+    "idle_rss_mib": 78.5703125,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.2989960000013525,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 416.70703125,
+    "idle_rss_mib": 78.37890625,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.15909240000110003,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 195.85546875,
+    "idle_rss_mib": 78.62890625,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.13050469999870984,
+    "result": [
+      {
+        "property_type_name": "Căn hộ chung cư",
+        "count": 150803,
+        "price_sum": 735650105148806.0,
+        "mean_price": 4878219300.337566
+      },
+      {
+        "property_type_name": "Nhà",
+        "count": 132737,
+        "price_sum": 808611463402857.0,
+        "mean_price": 6091831692.767329
+      },
+      {
+        "property_type_name": "Đất",
+        "count": 128449,
+        "price_sum": 457659860249115.0,
+        "mean_price": 3562969429.494313
+      }
+    ],
+    "peak_rss_mib": 102.9375,
+    "idle_rss_mib": 78.7890625,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 3,
+    "correct": true
+  }
+]

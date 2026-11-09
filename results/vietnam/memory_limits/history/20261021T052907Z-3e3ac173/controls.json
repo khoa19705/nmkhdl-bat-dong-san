@@ -1,0 +1,82 @@
+[
+  {
+    "limit_mib": 256,
+    "query": "province",
+    "method": null,
+    "limit_verified": {
+      "enabled": true,
+      "limit_bytes": 268435456,
+      "peak_commit_bytes": 44232704,
+      "metric": "Windows Job Object per-process committed virtual memory"
+    },
+    "status": "SUCCESS",
+    "allocated_mib": 32.0,
+    "wall_s": 0.2649999999994179,
+    "peak_rss_mib": 4.23828125,
+    "observed_peak_commit_mib": 42.18359375,
+    "allocation_mib": 32,
+    "expected": "SUCCESS",
+    "passed": true
+  },
+  {
+    "limit_mib": 256,
+    "query": "province",
+    "method": null,
+    "limit_verified": {
+      "enabled": true,
+      "limit_bytes": 268435456,
+      "peak_commit_bytes": 10592256,
+      "metric": "Windows Job Object per-process committed virtual memory"
+    },
+    "status": "OOM",
+    "phase": "probe",
+    "error_type": "MemoryError",
+    "error": "",
+    "wall_s": 0.25,
+    "peak_rss_mib": 4.234375,
+    "observed_peak_commit_mib": 10.1015625,
+    "allocation_mib": 320,
+    "expected": "OOM",
+    "passed": true
+  },
+  {
+    "limit_mib": 512,
+    "query": "province",
+    "method": null,
+    "limit_verified": {
+      "enabled": true,
+      "limit_bytes": 536870912,
+      "peak_commit_bytes": 44236800,
+      "metric": "Windows Job Object per-process committed virtual memory"
+    },
+    "status": "SUCCESS",
+    "allocated_mib": 32.0,
+    "wall_s": 0.26599999999962165,
+    "peak_rss_mib": 4.234375,
+    "observed_peak_commit_mib": 42.1875,
+    "allocation_mib": 32,
+    "expected": "SUCCESS",
+    "passed": true
+  },
+  {
+    "limit_mib": 512,
+    "query": "province",
+    "method": null,
+    "limit_verified": {
+      "enabled": true,
+      "limit_bytes": 536870912,
+      "peak_commit_bytes": 10498048,
+      "metric": "Windows Job Object per-process committed virtual memory"
+    },
+    "status": "OOM",
+    "phase": "probe",
+    "error_type": "MemoryError",
+    "error": "",
+    "wall_s": 0.23400000000037835,
+    "peak_rss_mib": 4.234375,
+    "observed_peak_commit_mib": 10.01171875,
+    "allocation_mib": 576,
+    "expected": "OOM",
+    "passed": true
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "rows": 1000000,
+  "query_repeats": 5,
+  "conversion_repeats": 3,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "total_ram_gib": 15.309371948242188,
+  "inputs": [
+    {
+      "rows": 1000000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.csv",
+        "bytes": 143190302,
+        "sha256": "79cf74f111f740564610c36a06932c2755b1dc0a78103ccf4607ce8aea785583"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.parquet",
+        "bytes": 33756697,
+        "sha256": "743e135b427938d56637e146c64ed45892acdc2d7128acbf0276ecc56fef85ca"
+      }
+    }
+  ],
+  "queries": [
+    "province",
+    "top100"
+  ],
+  "packages": {
+    "pandas": "3.0.6",
+    "pyarrow": "26.0.0",
+    "duckdb": "1.5.6"
+  },
+  "timing": "Conversion includes open/read CSV, typed parse, Snappy Parquet write and writer close; excludes Python startup/imports and correctness validation. Known analytic schema. No fsync or cold-cache guarantee.",
+  "session": "One discarded warmup per method/query, then interleaved repetitions in one process. Rereads files per query, does not cache a DataFrame; connection creation included."
+}

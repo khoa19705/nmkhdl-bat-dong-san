@@ -1,0 +1,7 @@
+{
+  "source": {
+    "path": "results/vietnam/memory_limits/history/20261021T052907Z-3e3ac173",
+    "status": "SUCCESS"
+  },
+  "rule": "RSS uses successful child high-water only. Commit uses Job Object snapshot only, with verified case count. Parent sampled values in original raw records are lower bounds, not verified peaks. Immutable run history retained."
+}

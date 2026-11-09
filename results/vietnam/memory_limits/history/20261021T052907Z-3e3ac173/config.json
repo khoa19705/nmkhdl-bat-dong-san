@@ -1,0 +1,31 @@
+{
+  "rows": 1000000,
+  "repeats": 3,
+  "budgets_mib": [
+    256,
+    512
+  ],
+  "inputs": [
+    {
+      "rows": 1000000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.csv",
+        "bytes": 143190302,
+        "sha256": "79cf74f111f740564610c36a06932c2755b1dc0a78103ccf4607ce8aea785583"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.parquet",
+        "bytes": 33756697,
+        "sha256": "743e135b427938d56637e146c64ed45892acdc2d7128acbf0276ecc56fef85ca"
+      }
+    }
+  ],
+  "metric": "OS-enforced per-process committed virtual memory, before data-library imports; includes runtime.",
+  "duckdb_internal_budget": "floor(OS limit / 2) MB; threads=1; outer OS cap applies equally to all methods.",
+  "timeout_s": 60,
+  "cache": "OS cache not cleared",
+  "queries": [
+    "province",
+    "top100"
+  ]
+}

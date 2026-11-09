@@ -1,0 +1,2336 @@
+[
+  {
+    "elapsed_s": 1.4830105000000913,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 109.75390625,
+    "idle_rss_mib": 78.51953125,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.236830600000758,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 417.03515625,
+    "idle_rss_mib": 78.38671875,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.541615100000854,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 109.5625,
+    "idle_rss_mib": 78.578125,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.306372300001385,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 416.78515625,
+    "idle_rss_mib": 78.7578125,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.8526614000002155,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 416.80078125,
+    "idle_rss_mib": 78.5703125,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.4746552000015072,
+    "result": [
+      {
+        "province_name": "An Giang",
+        "count": 292,
+        "price_sum": 440382999996.0,
+        "mean_price": 1508160958.890411
+      },
+      {
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "count": 5904,
+        "price_sum": 21589079759983.0,
+        "mean_price": 3656686951.216633
+      },
+      {
+        "province_name": "Bình Dương",
+        "count": 31121,
+        "price_sum": 98720543310586.0,
+        "mean_price": 3172152029.5165963
+      },
+      {
+        "province_name": "Bình Phước",
+        "count": 604,
+        "price_sum": 975610099999.0,
+        "mean_price": 1615248509.9321191
+      },
+      {
+        "province_name": "Bình Thuận",
+        "count": 707,
+        "price_sum": 1959621760000.0,
+        "mean_price": 2771742234.794908
+      },
+      {
+        "province_name": "Bình Định",
+        "count": 1731,
+        "price_sum": 4742258499996.0,
+        "mean_price": 2739606296.9358754
+      },
+      {
+        "province_name": "Bạc Liêu",
+        "count": 43,
+        "price_sum": 62262000000.0,
+        "mean_price": 1447953488.372093
+      },
+      {
+        "province_name": "Bắc Giang",
+        "count": 1284,
+        "price_sum": 3739044099999.0,
+        "mean_price": 2912028115.2640185
+      },
+      {
+        "province_name": "Bắc Kạn",
+        "count": 10,
+        "price_sum": 13330000000.0,
+        "mean_price": 1333000000.0
+      },
+      {
+        "province_name": "Bắc Ninh",
+        "count": 3842,
+        "price_sum": 15402273411996.0,
+        "mean_price": 4008920721.498178
+      },
+      {
+        "province_name": "Bến Tre",
+        "count": 834,
+        "price_sum": 895978999998.0,
+        "mean_price": 1074315347.7194245
+      },
+      {
+        "province_name": "Cao Bằng",
+        "count": 39,
+        "price_sum": 66790000000.0,
+        "mean_price": 1712564102.5641026
+      },
+      {
+        "province_name": "Cà Mau",
+        "count": 152,
+        "price_sum": 174110999999.0,
+        "mean_price": 1145467105.256579
+      },
+      {
+        "province_name": "Cần Thơ",
+        "count": 1842,
+        "price_sum": 6536022919996.0,
+        "mean_price": 3548329489.6829534
+      },
+      {
+        "province_name": "Gia Lai",
+        "count": 91,
+        "price_sum": 140313000000.0,
+        "mean_price": 1541901098.901099
+      },
+      {
+        "province_name": "Huế",
+        "count": 2276,
+        "price_sum": 7762825399993.0,
+        "mean_price": 3410731722.316784
+      },
+      {
+        "province_name": "Hà Giang",
+        "count": 19,
+        "price_sum": 56520000000.0,
+        "mean_price": 2974736842.105263
+      },
+      {
+        "province_name": "Hà Nam",
+        "count": 1615,
+        "price_sum": 6380124299995.0,
+        "mean_price": 3950541362.226006
+      },
+      {
+        "province_name": "Hà Nội",
+        "count": 103513,
+        "price_sum": 591654291935141.0,
+        "mean_price": 5715748668.622695
+      },
+      {
+        "province_name": "Hà Tĩnh",
+        "count": 125,
+        "price_sum": 224467000000.0,
+        "mean_price": 1795736000.0
+      },
+      {
+        "province_name": "Hòa Bình",
+        "count": 1324,
+        "price_sum": 1657688313500.0,
+        "mean_price": 1252030448.2628398
+      },
+      {
+        "province_name": "Hưng Yên",
+        "count": 9407,
+        "price_sum": 51348858282956.0,
+        "mean_price": 5458579598.485808
+      },
+      {
+        "province_name": "Hải Dương",
+        "count": 450,
+        "price_sum": 1187399499999.0,
+        "mean_price": 2638665555.5533333
+      },
+      {
+        "province_name": "Hải Phòng",
+        "count": 14156,
+        "price_sum": 49662227504378.0,
+        "mean_price": 3508210476.432467
+      },
+      {
+        "province_name": "Hậu Giang",
+        "count": 191,
+        "price_sum": 213863410000.0,
+        "mean_price": 1119703717.2774868
+      },
+      {
+        "province_name": "Hồ Chí Minh",
+        "count": 156354,
+        "price_sum": 905718712761974.0,
+        "mean_price": 5792744111.196221
+      },
+      {
+        "province_name": "Khánh Hòa",
+        "count": 19892,
+        "price_sum": 86739288761774.0,
+        "mean_price": 4360511198.560929
+      },
+      {
+        "province_name": "Kiên Giang",
+        "count": 842,
+        "price_sum": 2563455489999.0,
+        "mean_price": 3044483954.868171
+      },
+      {
+        "province_name": "Kon Tum",
+        "count": 30,
+        "price_sum": 78008000000.0,
+        "mean_price": 2600266666.6666665
+      },
+      {
+        "province_name": "Lai Châu",
+        "count": 10,
+        "price_sum": 14960000000.0,
+        "mean_price": 1496000000.0
+      },
+      {
+        "province_name": "Long An",
+        "count": 10462,
+        "price_sum": 24549125289994.0,
+        "mean_price": 2346504042.2475624
+      },
+      {
+        "province_name": "Lào Cai",
+        "count": 388,
+        "price_sum": 1261327420000.0,
+        "mean_price": 3250843865.9793816
+      },
+      {
+        "province_name": "Lâm Đồng",
+        "count": 2349,
+        "price_sum": 8967545729999.0,
+        "mean_price": 3817601417.6240954
+      },
+      {
+        "province_name": "Lạng Sơn",
+        "count": 106,
+        "price_sum": 245844249998.0,
+        "mean_price": 2319285377.3396225
+      },
+      {
+        "province_name": "Nam Định",
+        "count": 1344,
+        "price_sum": 2254378966205.0,
+        "mean_price": 1677365302.2358632
+      },
+      {
+        "province_name": "Nghệ An",
+        "count": 805,
+        "price_sum": 2689024356441.0,
+        "mean_price": 3340402927.2559004
+      },
+      {
+        "province_name": "Ninh Bình",
+        "count": 199,
+        "price_sum": 769972899999.0,
+        "mean_price": 3869210552.758794
+      },
+      {
+        "province_name": "Ninh Thuận",
+        "count": 708,
+        "price_sum": 1771622384000.0,
+        "mean_price": 2502291502.8248587
+      },
+      {
+        "province_name": "Phú Thọ",
+        "count": 972,
+        "price_sum": 2797173111999.0,
+        "mean_price": 2877750115.2253084
+      },
+      {
+        "province_name": "Phú Yên",
+        "count": 449,
+        "price_sum": 1091882999999.0,
+        "mean_price": 2431810690.4209356
+      },
+      {
+        "province_name": "Quảng Bình",
+        "count": 177,
+        "price_sum": 533002999999.0,
+        "mean_price": 3011316384.1751413
+      },
+      {
+        "province_name": "Quảng Nam",
+        "count": 2578,
+        "price_sum": 7068130249999.0,
+        "mean_price": 2741710725.368115
+      },
+      {
+        "province_name": "Quảng Ngãi",
+        "count": 261,
+        "price_sum": 483142300000.0,
+        "mean_price": 1851119923.3716476
+      },
+      {
+        "province_name": "Quảng Ninh",
+        "count": 2685,
+        "price_sum": 9686445749394.0,
+        "mean_price": 3607614804.2435756
+      },
+      {
+        "province_name": "Quảng Trị",
+        "count": 228,
+        "price_sum": 806677860000.0,
+        "mean_price": 3538060789.4736843
+      },
+      {
+        "province_name": "Sóc Trăng",
+        "count": 119,
+        "price_sum": 145569000000.0,
+        "mean_price": 1223268907.5630252
+      },
+      {
+        "province_name": "Sơn La",
+        "count": 22,
+        "price_sum": 115935000000.0,
+        "mean_price": 5269772727.272727
+      },
+      {
+        "province_name": "Thanh Hóa",
+        "count": 2274,
+        "price_sum": 4841732546786.0,
+        "mean_price": 2129169985.3940194
+      },
+      {
+        "province_name": "Thái Bình",
+        "count": 879,
+        "price_sum": 2032712300000.0,
+        "mean_price": 2312528213.8794084
+      },
+      {
+        "province_name": "Thái Nguyên",
+        "count": 2008,
+        "price_sum": 4529184457197.0,
+        "mean_price": 2255569948.803287
+      },
+      {
+        "province_name": "Tiền Giang",
+        "count": 1148,
+        "price_sum": 1367631300000.0,
+        "mean_price": 1191316463.4146342
+      },
+      {
+        "province_name": "Trà Vinh",
+        "count": 129,
+        "price_sum": 95009999999.0,
+        "mean_price": 736511627.8992248
+      },
+      {
+        "province_name": "Tuyên Quang",
+        "count": 30,
+        "price_sum": 50800000000.0,
+        "mean_price": 1693333333.3333333
+      },
+      {
+        "province_name": "Tây Ninh",
+        "count": 986,
+        "price_sum": 984352080000.0,
+        "mean_price": 998328681.5415821
+      },
+      {
+        "province_name": "Vĩnh Long",
+        "count": 275,
+        "price_sum": 420837799998.0,
+        "mean_price": 1530319272.72
+      },
+      {
+        "province_name": "Vĩnh Phúc",
+        "count": 1887,
+        "price_sum": 5753916228131.0,
+        "mean_price": 3049240184.489136
+      },
+      {
+        "province_name": "Yên Bái",
+        "count": 120,
+        "price_sum": 368739000000.0,
+        "mean_price": 3072825000.0
+      },
+      {
+        "province_name": "Điện Biên",
+        "count": 41,
+        "price_sum": 138624000000.0,
+        "mean_price": 3381073170.731707
+      },
+      {
+        "province_name": "Đà Nẵng",
+        "count": 29743,
+        "price_sum": 160001777066188.0,
+        "mean_price": 5379476753.057459
+      },
+      {
+        "province_name": "Đắk Lắk",
+        "count": 1322,
+        "price_sum": 3861208299994.0,
+        "mean_price": 2920732450.827534
+      },
+      {
+        "province_name": "Đắk Nông",
+        "count": 11,
+        "price_sum": 17061000000.0,
+        "mean_price": 1551000000.0
+      },
+      {
+        "province_name": "Đồng Nai",
+        "count": 10687,
+        "price_sum": 28709577777983.0,
+        "mean_price": 2686401962.944044
+      },
+      {
+        "province_name": "Đồng Tháp",
+        "count": 252,
+        "price_sum": 318751000000.0,
+        "mean_price": 1264884920.6349206
+      }
+    ],
+    "peak_rss_mib": 110.1953125,
+    "idle_rss_mib": 78.66015625,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 3,
+    "correct": true
+  }
+]

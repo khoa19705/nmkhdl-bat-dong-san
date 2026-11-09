@@ -1,0 +1,41 @@
+[
+  {
+    "rows": 100000,
+    "csv": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_100000.csv",
+      "bytes": 14322759,
+      "sha256": "a5dd59e29da79c665b5e55ce6d7a3e47dcd623e2bf7149c3336a71581db76240"
+    },
+    "parquet": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_100000.parquet",
+      "bytes": 3230142,
+      "sha256": "4d3b56ec6b2d30dec74ea0d1fb3c1a06bff17f221fdb991e685fb57c7a6106fb"
+    }
+  },
+  {
+    "rows": 500000,
+    "csv": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_500000.csv",
+      "bytes": 71603481,
+      "sha256": "93e29877487da1d9492ae6485ddedf9a319fba64989dd767b80863a8c1923fd1"
+    },
+    "parquet": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_500000.parquet",
+      "bytes": 16118047,
+      "sha256": "5880e824f27ed2527b9ca5f5b2dace3ad6c388ae533cdb7bd66ec82a7a820ba3"
+    }
+  },
+  {
+    "rows": 1000000,
+    "csv": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.csv",
+      "bytes": 143195971,
+      "sha256": "f932223329583d7a309b4f4d5da7f6f34ae8fb513c74f21796521f04d19cff0f"
+    },
+    "parquet": {
+      "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.parquet",
+      "bytes": 32227789,
+      "sha256": "8cd2280785e3ed67873d8acc7e216f520fa771d4e509bb1e946925425c379a78"
+    }
+  }
+]

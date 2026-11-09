@@ -1,0 +1,16 @@
+{
+  "source": "https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set",
+  "doi": "10.24432/C5J30W",
+  "author": "I-Cheng Yeh",
+  "license": "CC BY 4.0",
+  "downloaded_utc": "2026-10-21T04:23:30.452338+00:00",
+  "zip_sha256": "aa437bdac3ca23200258a0a58d251c0af90651aeaf7c7a07aaa714f0f9f25e2c",
+  "audit": {
+    "input_rows": 414,
+    "missing_rows": 0,
+    "invalid_rows": 0,
+    "duplicate_id_rows": 0,
+    "output_rows": 414,
+    "price_iqr_flags": 3
+  }
+}

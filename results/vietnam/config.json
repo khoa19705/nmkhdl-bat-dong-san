@@ -1,0 +1,69 @@
+{
+  "run_id": "20261021T050308Z-c20929ea",
+  "dataset": "vietnam",
+  "query": "province",
+  "filters": {
+    "area_min": 50.0,
+    "area_max": 150.0,
+    "price_min": 1.0,
+    "price_max": 10000000000.0,
+    "province": null,
+    "property_type": null
+  },
+  "sizes": [
+    100000,
+    500000,
+    1000000
+  ],
+  "repeats": 3,
+  "chunksize": 50000,
+  "methods": [
+    "csv_full",
+    "csv_columns",
+    "csv_typed",
+    "csv_chunk",
+    "parquet_columns",
+    "duckdb_parquet"
+  ],
+  "inputs": [
+    {
+      "rows": 100000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_100000.csv",
+        "bytes": 14320419,
+        "sha256": "a3dee1a2f24fef5e150b860af6cb583a7d5d87f15eee142b9885f038188630da"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_100000.parquet",
+        "bytes": 3375859,
+        "sha256": "cfc0ebb9a3f843aeb6061f4963a1cc10bab3a9266206c3eadaa4994bb3268abe"
+      }
+    },
+    {
+      "rows": 500000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_500000.csv",
+        "bytes": 71600642,
+        "sha256": "bd59536fc1f5f8bb0d20db61f040e4af6fbc7154a7edbcedd0264f5452962afd"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_500000.parquet",
+        "bytes": 16879644,
+        "sha256": "e40816f6545b323bb1a68ea61056ac29da6e1ac17f38337340cbd583834b5bb6"
+      }
+    },
+    {
+      "rows": 1000000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.csv",
+        "bytes": 143190302,
+        "sha256": "79cf74f111f740564610c36a06932c2755b1dc0a78103ccf4607ce8aea785583"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.parquet",
+        "bytes": 33756697,
+        "sha256": "743e135b427938d56637e146c64ed45892acdc2d7128acbf0276ecc56fef85ca"
+      }
+    }
+  ]
+}

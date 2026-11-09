@@ -1,0 +1,6 @@
+{
+  "status": "SUCCESS",
+  "attempts": 72,
+  "controls_passed": true,
+  "note": "OOM/TIMEOUT/NATIVE_ERROR là kết quả từng ca, không tự coi là sai dữ liệu."
+}

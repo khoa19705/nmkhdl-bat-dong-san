@@ -1,0 +1,7 @@
+{
+  "elapsed_s": 26.310449000000517,
+  "peak_process_mib": 476.22265625,
+  "batch_size": 50000,
+  "duckdb_memory_mb": 256,
+  "note": "Windows: high-water working set tiến trình từ lúc khởi động đến hết chuẩn bị, gồm thư viện. Ngân sách DuckDB không phải giới hạn cứng toàn tiến trình. Nền tảng khác: RSS tại cuối bước, không phải đỉnh."
+}

@@ -1,0 +1,280 @@
+﻿province_name,property_type_name,listing_rows
+An Giang,Biệt thự/Nhà liền kề,2
+An Giang,Căn hộ chung cư,3
+An Giang,Nhà,193
+An Giang,Shophouse,6
+An Giang,Đất,441
+Bà Rịa - Vũng Tàu,Biệt thự/Nhà liền kề,1866
+Bà Rịa - Vũng Tàu,Căn hộ chung cư,2414
+Bà Rịa - Vũng Tàu,Nhà,3381
+Bà Rịa - Vũng Tàu,Shophouse,170
+Bà Rịa - Vũng Tàu,Đất,10973
+Bình Dương,Biệt thự/Nhà liền kề,4370
+Bình Dương,Căn hộ chung cư,18716
+Bình Dương,Nhà,12686
+Bình Dương,Shophouse,2517
+Bình Dương,Đất,19984
+Bình Phước,Biệt thự/Nhà liền kề,8
+Bình Phước,Nhà,143
+Bình Phước,Shophouse,101
+Bình Phước,Đất,3232
+Bình Thuận,Biệt thự/Nhà liền kề,676
+Bình Thuận,Căn hộ chung cư,36
+Bình Thuận,Nhà,396
+Bình Thuận,Shophouse,39
+Bình Thuận,Đất,2557
+Bình Định,Biệt thự/Nhà liền kề,117
+Bình Định,Căn hộ chung cư,931
+Bình Định,Nhà,487
+Bình Định,Shophouse,188
+Bình Định,Đất,1305
+Bạc Liêu,Biệt thự/Nhà liền kề,3
+Bạc Liêu,Nhà,12
+Bạc Liêu,Shophouse,5
+Bạc Liêu,Đất,73
+Bắc Giang,Biệt thự/Nhà liền kề,70
+Bắc Giang,Căn hộ chung cư,447
+Bắc Giang,Nhà,88
+Bắc Giang,Shophouse,220
+Bắc Giang,Đất,1571
+Bắc Kạn,Nhà,2
+Bắc Kạn,Đất,13
+Bắc Ninh,Biệt thự/Nhà liền kề,1808
+Bắc Ninh,Căn hộ chung cư,407
+Bắc Ninh,Nhà,433
+Bắc Ninh,Shophouse,886
+Bắc Ninh,Đất,4061
+Bến Tre,Biệt thự/Nhà liền kề,37
+Bến Tre,Căn hộ chung cư,1
+Bến Tre,Nhà,633
+Bến Tre,Đất,1788
+Cao Bằng,Nhà,26
+Cao Bằng,Shophouse,1
+Cao Bằng,Đất,61
+Cà Mau,Biệt thự/Nhà liền kề,12
+Cà Mau,Nhà,81
+Cà Mau,Đất,221
+Cần Thơ,Biệt thự/Nhà liền kề,134
+Cần Thơ,Căn hộ chung cư,547
+Cần Thơ,Nhà,1628
+Cần Thơ,Shophouse,48
+Cần Thơ,Đất,1546
+Gia Lai,Biệt thự/Nhà liền kề,4
+Gia Lai,Nhà,67
+Gia Lai,Shophouse,3
+Gia Lai,Đất,340
+Huế,Biệt thự/Nhà liền kề,566
+Huế,Căn hộ chung cư,91
+Huế,Nhà,939
+Huế,Shophouse,497
+Huế,Đất,2000
+Hà Giang,Biệt thự/Nhà liền kề,1
+Hà Giang,Nhà,29
+Hà Giang,Đất,19
+Hà Nam,Biệt thự/Nhà liền kề,863
+Hà Nam,Căn hộ chung cư,830
+Hà Nam,Nhà,122
+Hà Nam,Shophouse,135
+Hà Nam,Đất,1393
+Hà Nội,Biệt thự/Nhà liền kề,31894
+Hà Nội,Căn hộ chung cư,109736
+Hà Nội,Nhà,242071
+Hà Nội,Shophouse,3555
+Hà Nội,Đất,67472
+Hà Tĩnh,Biệt thự/Nhà liền kề,17
+Hà Tĩnh,Căn hộ chung cư,2
+Hà Tĩnh,Nhà,23
+Hà Tĩnh,Shophouse,4
+Hà Tĩnh,Đất,364
+Hòa Bình,Biệt thự/Nhà liền kề,222
+Hòa Bình,Căn hộ chung cư,2
+Hòa Bình,Nhà,88
+Hòa Bình,Shophouse,15
+Hòa Bình,Đất,3764
+Hưng Yên,Biệt thự/Nhà liền kề,9785
+Hưng Yên,Căn hộ chung cư,8286
+Hưng Yên,Nhà,334
+Hưng Yên,Shophouse,1556
+Hưng Yên,Đất,3269
+Hải Dương,Biệt thự/Nhà liền kề,41
+Hải Dương,Căn hộ chung cư,52
+Hải Dương,Nhà,150
+Hải Dương,Shophouse,6
+Hải Dương,Đất,612
+Hải Phòng,Biệt thự/Nhà liền kề,3995
+Hải Phòng,Căn hộ chung cư,2860
+Hải Phòng,Nhà,5443
+Hải Phòng,Shophouse,1424
+Hải Phòng,Đất,13405
+Hậu Giang,Biệt thự/Nhà liền kề,3
+Hậu Giang,Căn hộ chung cư,3
+Hậu Giang,Nhà,40
+Hậu Giang,Shophouse,5
+Hậu Giang,Đất,318
+Hồ Chí Minh,Biệt thự/Nhà liền kề,21813
+Hồ Chí Minh,Căn hộ chung cư,86434
+Hồ Chí Minh,Nhà,283252
+Hồ Chí Minh,Shophouse,3312
+Hồ Chí Minh,Đất,53844
+Khánh Hòa,Biệt thự/Nhà liền kề,4249
+Khánh Hòa,Căn hộ chung cư,6485
+Khánh Hòa,Nhà,12689
+Khánh Hòa,Shophouse,759
+Khánh Hòa,Đất,19438
+Kiên Giang,Biệt thự/Nhà liền kề,305
+Kiên Giang,Căn hộ chung cư,79
+Kiên Giang,Nhà,462
+Kiên Giang,Shophouse,141
+Kiên Giang,Đất,1178
+Kon Tum,Biệt thự/Nhà liền kề,3
+Kon Tum,Nhà,39
+Kon Tum,Đất,167
+Lai Châu,Nhà,9
+Lai Châu,Đất,18
+Long An,Biệt thự/Nhà liền kề,2889
+Long An,Căn hộ chung cư,1459
+Long An,Nhà,2556
+Long An,Shophouse,1068
+Long An,Đất,12388
+Lào Cai,Biệt thự/Nhà liền kề,58
+Lào Cai,Căn hộ chung cư,56
+Lào Cai,Nhà,263
+Lào Cai,Shophouse,61
+Lào Cai,Đất,341
+Lâm Đồng,Biệt thự/Nhà liền kề,1475
+Lâm Đồng,Căn hộ chung cư,151
+Lâm Đồng,Nhà,2556
+Lâm Đồng,Shophouse,7
+Lâm Đồng,Đất,7212
+Lạng Sơn,Biệt thự/Nhà liền kề,10
+Lạng Sơn,Căn hộ chung cư,1
+Lạng Sơn,Nhà,63
+Lạng Sơn,Shophouse,5
+Lạng Sơn,Đất,97
+Nam Định,Biệt thự/Nhà liền kề,6
+Nam Định,Căn hộ chung cư,8
+Nam Định,Nhà,305
+Nam Định,Đất,1788
+Nghệ An,Biệt thự/Nhà liền kề,238
+Nghệ An,Căn hộ chung cư,289
+Nghệ An,Nhà,99
+Nghệ An,Shophouse,154
+Nghệ An,Đất,972
+Ninh Bình,Biệt thự/Nhà liền kề,5
+Ninh Bình,Nhà,45
+Ninh Bình,Đất,422
+Ninh Thuận,Biệt thự/Nhà liền kề,52
+Ninh Thuận,Căn hộ chung cư,92
+Ninh Thuận,Nhà,144
+Ninh Thuận,Shophouse,71
+Ninh Thuận,Đất,1029
+Phú Thọ,Biệt thự/Nhà liền kề,181
+Phú Thọ,Căn hộ chung cư,164
+Phú Thọ,Nhà,87
+Phú Thọ,Shophouse,59
+Phú Thọ,Đất,1734
+Phú Yên,Biệt thự/Nhà liền kề,26
+Phú Yên,Căn hộ chung cư,15
+Phú Yên,Nhà,245
+Phú Yên,Shophouse,50
+Phú Yên,Đất,925
+Quảng Bình,Biệt thự/Nhà liền kề,25
+Quảng Bình,Căn hộ chung cư,153
+Quảng Bình,Nhà,52
+Quảng Bình,Shophouse,28
+Quảng Bình,Đất,421
+Quảng Nam,Biệt thự/Nhà liền kề,751
+Quảng Nam,Căn hộ chung cư,2
+Quảng Nam,Nhà,812
+Quảng Nam,Shophouse,61
+Quảng Nam,Đất,6165
+Quảng Ngãi,Biệt thự/Nhà liền kề,30
+Quảng Ngãi,Nhà,74
+Quảng Ngãi,Shophouse,15
+Quảng Ngãi,Đất,498
+Quảng Ninh,Biệt thự/Nhà liền kề,1026
+Quảng Ninh,Căn hộ chung cư,2122
+Quảng Ninh,Nhà,413
+Quảng Ninh,Shophouse,609
+Quảng Ninh,Đất,2521
+Quảng Trị,Biệt thự/Nhà liền kề,31
+Quảng Trị,Nhà,16
+Quảng Trị,Shophouse,127
+Quảng Trị,Đất,488
+Sóc Trăng,Nhà,81
+Sóc Trăng,Shophouse,5
+Sóc Trăng,Đất,179
+Sơn La,Biệt thự/Nhà liền kề,8
+Sơn La,Căn hộ chung cư,1
+Sơn La,Nhà,3
+Sơn La,Shophouse,7
+Sơn La,Đất,85
+Thanh Hóa,Biệt thự/Nhà liền kề,431
+Thanh Hóa,Căn hộ chung cư,604
+Thanh Hóa,Nhà,340
+Thanh Hóa,Shophouse,287
+Thanh Hóa,Đất,2757
+Thái Bình,Biệt thự/Nhà liền kề,48
+Thái Bình,Căn hộ chung cư,177
+Thái Bình,Nhà,312
+Thái Bình,Shophouse,26
+Thái Bình,Đất,996
+Thái Nguyên,Biệt thự/Nhà liền kề,64
+Thái Nguyên,Căn hộ chung cư,1250
+Thái Nguyên,Nhà,136
+Thái Nguyên,Shophouse,251
+Thái Nguyên,Đất,1311
+Tiền Giang,Biệt thự/Nhà liền kề,17
+Tiền Giang,Căn hộ chung cư,68
+Tiền Giang,Nhà,511
+Tiền Giang,Shophouse,34
+Tiền Giang,Đất,1912
+Trà Vinh,Biệt thự/Nhà liền kề,5
+Trà Vinh,Nhà,30
+Trà Vinh,Đất,212
+Tuyên Quang,Nhà,14
+Tuyên Quang,Shophouse,2
+Tuyên Quang,Đất,93
+Tây Ninh,Biệt thự/Nhà liền kề,258
+Tây Ninh,Căn hộ chung cư,54
+Tây Ninh,Nhà,466
+Tây Ninh,Shophouse,119
+Tây Ninh,Đất,2619
+Vĩnh Long,Biệt thự/Nhà liền kề,12
+Vĩnh Long,Nhà,159
+Vĩnh Long,Shophouse,12
+Vĩnh Long,Đất,436
+Vĩnh Phúc,Biệt thự/Nhà liền kề,562
+Vĩnh Phúc,Căn hộ chung cư,94
+Vĩnh Phúc,Nhà,331
+Vĩnh Phúc,Shophouse,134
+Vĩnh Phúc,Đất,2556
+Yên Bái,Biệt thự/Nhà liền kề,22
+Yên Bái,Nhà,33
+Yên Bái,Shophouse,17
+Yên Bái,Đất,144
+Điện Biên,Biệt thự/Nhà liền kề,4
+Điện Biên,Căn hộ chung cư,1
+Điện Biên,Nhà,18
+Điện Biên,Shophouse,8
+Điện Biên,Đất,40
+Đà Nẵng,Biệt thự/Nhà liền kề,2026
+Đà Nẵng,Căn hộ chung cư,7957
+Đà Nẵng,Nhà,22214
+Đà Nẵng,Shophouse,1213
+Đà Nẵng,Đất,40054
+Đắk Lắk,Biệt thự/Nhà liền kề,113
+Đắk Lắk,Căn hộ chung cư,3
+Đắk Lắk,Nhà,823
+Đắk Lắk,Shophouse,198
+Đắk Lắk,Đất,2228
+Đắk Nông,Nhà,34
+Đắk Nông,Đất,377
+Đồng Nai,Biệt thự/Nhà liền kề,2315
+Đồng Nai,Căn hộ chung cư,1414
+Đồng Nai,Nhà,5981
+Đồng Nai,Shophouse,509
+Đồng Nai,Đất,12398
+Đồng Tháp,Căn hộ chung cư,3
+Đồng Tháp,Nhà,100
+Đồng Tháp,Đất,548

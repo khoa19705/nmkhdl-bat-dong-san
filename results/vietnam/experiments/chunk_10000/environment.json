@@ -1,0 +1,35 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\.venv\\Scripts\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+  "logical_cpus": 12,
+  "total_ram_gib": 15.309371948242188,
+  "packages": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "pyarrow": "26.0.0",
+    "duckdb": "1.5.6",
+    "psutil": "7.2.2",
+    "matplotlib": "3.11.2",
+    "openpyxl": "3.1.5"
+  },
+  "sizes": [
+    1000000
+  ],
+  "repeats": 3,
+  "chunksize": 10000,
+  "dataset": "vietnam",
+  "query": "province",
+  "filters": {
+    "area_min": 50.0,
+    "area_max": 150.0,
+    "price_min": 1.0,
+    "price_max": 10000000000.0,
+    "province": null,
+    "property_type": null
+  },
+  "run_id": "20261021T050811Z-9ef0df12",
+  "measured_utc": "2026-10-21T05:08:39.049700+00:00",
+  "notes": "Fresh process each run; query includes read and aggregation; excludes interpreter startup/import pandas. OS cache not cleared. DuckDB lazy import and connection included. Windows peak working set includes process startup/imports. Other platforms: RSS polling 5ms may miss short peaks. Thread environment set to 1; actual Arrow IO scheduling may differ."
+}

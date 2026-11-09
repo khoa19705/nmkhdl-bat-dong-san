@@ -1,0 +1,740 @@
+[
+  {
+    "elapsed_s": 1.502938699999504,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 109.98828125,
+    "idle_rss_mib": 78.6875,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5468165000002045,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 144.25,
+    "idle_rss_mib": 78.515625,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.1620536999998876,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 126.2265625,
+    "idle_rss_mib": 78.61328125,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.15632470000127796,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 184.21484375,
+    "idle_rss_mib": 78.484375,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.2554896999990888,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 417.8984375,
+    "idle_rss_mib": 78.47265625,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.11815500000011525,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 102.5703125,
+    "idle_rss_mib": 78.78125,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.4892555000005814,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 109.19140625,
+    "idle_rss_mib": 78.5390625,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.344980600000781,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 416.875,
+    "idle_rss_mib": 78.76171875,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.1467403000006016,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 125.7578125,
+    "idle_rss_mib": 78.5234375,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1562379000006331,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 185.69921875,
+    "idle_rss_mib": 78.55078125,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.11729039999954693,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 102.4765625,
+    "idle_rss_mib": 78.62109375,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2559695999989344,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 144.93359375,
+    "idle_rss_mib": 78.828125,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.4757781000007526,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 109.6640625,
+    "idle_rss_mib": 78.39453125,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2541223000007449,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 144.5390625,
+    "idle_rss_mib": 78.66796875,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.1743251999996573,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 126.296875,
+    "idle_rss_mib": 78.4375,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.7201317999988532,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 416.6953125,
+    "idle_rss_mib": 78.72265625,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.14003279999997176,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 185.42578125,
+    "idle_rss_mib": 78.3984375,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.12743159999990894,
+    "result": [
+      {
+        "published_month": "2025-06",
+        "count": 83328,
+        "price_sum": 397082739552847.0,
+        "mean_price": 4765297853.6968
+      },
+      {
+        "published_month": "2025-07",
+        "count": 115817,
+        "price_sum": 563446651593129.0,
+        "mean_price": 4864973635.9353895
+      },
+      {
+        "published_month": "2025-08",
+        "count": 110028,
+        "price_sum": 545084990170597.0,
+        "mean_price": 4954057059.753854
+      },
+      {
+        "published_month": "2025-09",
+        "count": 106449,
+        "price_sum": 534315107714465.0,
+        "mean_price": 5019446943.742684
+      },
+      {
+        "published_month": "2025-10",
+        "count": 18722,
+        "price_sum": 99519538915521.0,
+        "mean_price": 5315646774.677973
+      }
+    ],
+    "peak_rss_mib": 102.91796875,
+    "idle_rss_mib": 78.75,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 3,
+    "correct": true
+  }
+]

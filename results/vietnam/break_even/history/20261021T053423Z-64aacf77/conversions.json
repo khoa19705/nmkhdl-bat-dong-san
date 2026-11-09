@@ -1,0 +1,32 @@
+[
+  {
+    "rows": 1000000,
+    "conversion_s": 1.5120953999994526,
+    "repetition": 1,
+    "content_fingerprint": [
+      1000000,
+      2411742962370436551
+    ],
+    "correct": true
+  },
+  {
+    "rows": 1000000,
+    "conversion_s": 1.4377991000001202,
+    "repetition": 2,
+    "content_fingerprint": [
+      1000000,
+      2411742962370436551
+    ],
+    "correct": true
+  },
+  {
+    "rows": 1000000,
+    "conversion_s": 1.4703678999994736,
+    "repetition": 3,
+    "content_fingerprint": [
+      1000000,
+      2411742962370436551
+    ],
+    "correct": true
+  }
+]

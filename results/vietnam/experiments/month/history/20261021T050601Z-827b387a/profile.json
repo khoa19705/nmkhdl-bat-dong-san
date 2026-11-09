@@ -1,0 +1,98 @@
+{
+  "raw_rows": 1400300,
+  "clean_rows": 1297417,
+  "removed_missing_core": 102883,
+  "removed_invalid_core": 0,
+  "missing_by_column": {
+    "property_type_name": 0,
+    "province_name": 0,
+    "district_name": 33578,
+    "price": 102883,
+    "area": 3,
+    "floor_count": 1060462,
+    "bedroom_count": 658142,
+    "bathroom_count": 705424,
+    "published_at": 0
+  },
+  "missing_after": {
+    "source_shard": 0,
+    "source_row": 0,
+    "property_type_name": 0,
+    "province_name": 0,
+    "district_name": 30986,
+    "price_vnd": 0,
+    "area_m2": 0,
+    "floor_count": 986891,
+    "bedroom_count": 610346,
+    "bathroom_count": 654446,
+    "published_at": 0,
+    "published_month": 0,
+    "price_per_m2_vnd": 0,
+    "extreme_value_flag": 0
+  },
+  "duplicate_projection_rows": 52,
+  "duplicate_policy": "Giữ chữ ký 9 cột lặp vì không có ID tin/bất động sản để xác nhận trùng.",
+  "province_labels": 63,
+  "property_types": {
+    "Nhà": 605262,
+    "Biệt thự/Nhà liền kề": 95552,
+    "Căn hộ chung cư": 254500,
+    "Đất": 321373,
+    "Shophouse": 20730
+  },
+  "first_month": "2025-06",
+  "last_month": "2025-10",
+  "per_shard": [
+    {
+      "source_shard": "shard_0000.parquet",
+      "raw_rows": 350075,
+      "missing_core_rows": 13055,
+      "invalid_core_rows": 0,
+      "optional_values_set_null": 0,
+      "clean_rows": 337020,
+      "invalid_publication_dates": 0,
+      "extreme_value_flags": 1028
+    },
+    {
+      "source_shard": "shard_0001.parquet",
+      "raw_rows": 350075,
+      "missing_core_rows": 23694,
+      "invalid_core_rows": 0,
+      "optional_values_set_null": 0,
+      "clean_rows": 326381,
+      "invalid_publication_dates": 0,
+      "extreme_value_flags": 894
+    },
+    {
+      "source_shard": "shard_0002.parquet",
+      "raw_rows": 350075,
+      "missing_core_rows": 34227,
+      "invalid_core_rows": 0,
+      "optional_values_set_null": 0,
+      "clean_rows": 315848,
+      "invalid_publication_dates": 0,
+      "extreme_value_flags": 949
+    },
+    {
+      "source_shard": "shard_0003.parquet",
+      "raw_rows": 350075,
+      "missing_core_rows": 31907,
+      "invalid_core_rows": 0,
+      "optional_values_set_null": 0,
+      "clean_rows": 318168,
+      "invalid_publication_dates": 0,
+      "extreme_value_flags": 971
+    }
+  ],
+  "benchmark_seed": 42,
+  "benchmark_sizes": [
+    100000,
+    500000,
+    1000000
+  ],
+  "batch_size": 50000,
+  "duckdb_memory_mb": 256,
+  "sampler": "duckdb_hash_order_v1",
+  "preparation": "Arrow batch + DuckDB với vùng tràn đĩa; không nạp toàn bảng sạch vào Pandas.",
+  "scope": "Các shard theo thứ tự tên; mẫu benchmark theo thứ tự hash của ID hàng nguồn và seed, không hoàn lại."
+}

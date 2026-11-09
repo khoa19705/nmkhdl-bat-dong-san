@@ -1,0 +1,72 @@
+{
+  "source": "https://huggingface.co/datasets/tinixai/vietnam-real-estates",
+  "publisher": "TiniX AI",
+  "revision": "ca3fedcbb089bf65f7e4cfb03316cce4bd0d779f",
+  "license": "CC BY-NC 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "source_reported_rows": 3500744,
+  "columns": [
+    "property_type_name",
+    "province_name",
+    "district_name",
+    "price",
+    "area",
+    "floor_count",
+    "bedroom_count",
+    "bathroom_count",
+    "published_at"
+  ],
+  "shards": [
+    {
+      "file": "projection_0000.parquet",
+      "source_file": "shard_0000.parquet",
+      "source_url": "https://huggingface.co/datasets/tinixai/vietnam-real-estates/resolve/ca3fedcbb089bf65f7e4cfb03316cce4bd0d779f/shard_0000.parquet?download=true",
+      "source_file_bytes": 163719867,
+      "transferred_bytes": 7036683,
+      "http_range_requests": 10,
+      "rows": 350075,
+      "bytes": 7054056,
+      "sha256": "5c4026e375cccb2b132839e900e38648eb136ec3b14f45b00373d2354e4b9aae",
+      "elapsed_s": 16.359309599999506
+    },
+    {
+      "file": "projection_0001.parquet",
+      "source_file": "shard_0001.parquet",
+      "source_url": "https://huggingface.co/datasets/tinixai/vietnam-real-estates/resolve/ca3fedcbb089bf65f7e4cfb03316cce4bd0d779f/shard_0001.parquet?download=true",
+      "source_file_bytes": 163980651,
+      "transferred_bytes": 7093702,
+      "http_range_requests": 10,
+      "rows": 350075,
+      "bytes": 7125185,
+      "sha256": "18a36a5e829549c6e0c9f960297cc8a96fb529799b72fbdb99d00f964857b72f",
+      "elapsed_s": 15.370774700000766
+    },
+    {
+      "file": "projection_0002.parquet",
+      "source_file": "shard_0002.parquet",
+      "source_url": "https://huggingface.co/datasets/tinixai/vietnam-real-estates/resolve/ca3fedcbb089bf65f7e4cfb03316cce4bd0d779f/shard_0002.parquet?download=true",
+      "source_file_bytes": 162710834,
+      "transferred_bytes": 7075670,
+      "http_range_requests": 10,
+      "rows": 350075,
+      "bytes": 7119669,
+      "sha256": "98564f9cf26e83334eaf7edf180021dceb464533756dcc130dfdd41ff033f56a",
+      "elapsed_s": 16.277232800000093
+    },
+    {
+      "file": "projection_0003.parquet",
+      "source_file": "shard_0003.parquet",
+      "source_url": "https://huggingface.co/datasets/tinixai/vietnam-real-estates/resolve/ca3fedcbb089bf65f7e4cfb03316cce4bd0d779f/shard_0003.parquet?download=true",
+      "source_file_bytes": 163953228,
+      "transferred_bytes": 7083406,
+      "http_range_requests": 10,
+      "rows": 350075,
+      "bytes": 7100630,
+      "sha256": "9fd0c766658176591d99507b4b8ab7d9250bd021320a3df2093fcd589c308aa2",
+      "elapsed_s": 15.673398900000393
+    }
+  ],
+  "note": "Trích cột từ dữ liệu tin đăng do nhà phát hành công bố. Không phải dữ liệu giao dịch xác minh; không sinh dữ liệu. Nguồn có cả bán/cho thuê nhưng schema không có nhãn phân biệt.",
+  "downloaded_rows": 1400300,
+  "updated_utc": "2026-10-21T04:40:11.228929+00:00"
+}

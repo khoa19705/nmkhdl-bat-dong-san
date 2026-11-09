@@ -1,0 +1,41 @@
+[
+  {
+    "rows": 100000,
+    "csv_bytes": 14320419,
+    "parquet_bytes": 3375859,
+    "csv_write_s": 0.6723945999983698,
+    "parquet_write_s": 0.1057513999985531,
+    "seed": 42,
+    "sampler": "duckdb_hash_order_v1",
+    "duckdb_version": "1.5.6",
+    "batch_size": 50000,
+    "csv_sha256": "a3dee1a2f24fef5e150b860af6cb583a7d5d87f15eee142b9885f038188630da",
+    "parquet_sha256": "cfc0ebb9a3f843aeb6061f4963a1cc10bab3a9266206c3eadaa4994bb3268abe"
+  },
+  {
+    "rows": 500000,
+    "csv_bytes": 71600642,
+    "parquet_bytes": 16879644,
+    "csv_write_s": 3.5018444000015734,
+    "parquet_write_s": 0.4857928000001266,
+    "seed": 42,
+    "sampler": "duckdb_hash_order_v1",
+    "duckdb_version": "1.5.6",
+    "batch_size": 50000,
+    "csv_sha256": "bd59536fc1f5f8bb0d20db61f040e4af6fbc7154a7edbcedd0264f5452962afd",
+    "parquet_sha256": "e40816f6545b323bb1a68ea61056ac29da6e1ac17f38337340cbd583834b5bb6"
+  },
+  {
+    "rows": 1000000,
+    "csv_bytes": 143190302,
+    "parquet_bytes": 33756697,
+    "csv_write_s": 6.387785899994924,
+    "parquet_write_s": 0.9658400999978767,
+    "seed": 42,
+    "sampler": "duckdb_hash_order_v1",
+    "duckdb_version": "1.5.6",
+    "batch_size": 50000,
+    "csv_sha256": "79cf74f111f740564610c36a06932c2755b1dc0a78103ccf4607ce8aea785583",
+    "parquet_sha256": "743e135b427938d56637e146c64ed45892acdc2d7128acbf0276ecc56fef85ca"
+  }
+]

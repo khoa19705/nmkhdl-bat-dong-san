@@ -1,0 +1,308 @@
+[
+  {
+    "elapsed_s": 1.4903340999990178,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 109.9140625,
+    "idle_rss_mib": 78.47265625,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.3737712999991345,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 166.7265625,
+    "idle_rss_mib": 78.578125,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2109482000014395,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 126.9765625,
+    "idle_rss_mib": 78.45703125,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1756081000003178,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 190.76953125,
+    "idle_rss_mib": 78.47265625,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.448273699999845,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 417.0,
+    "idle_rss_mib": 78.35546875,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1264088999996602,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 103.31640625,
+    "idle_rss_mib": 78.50390625,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 1,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5322568000010506,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 110.296875,
+    "idle_rss_mib": 78.69140625,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.2873177000001306,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 418.0078125,
+    "idle_rss_mib": 78.44140625,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.2905472000002192,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 126.5703125,
+    "idle_rss_mib": 78.49609375,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.17268800000056217,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 190.92578125,
+    "idle_rss_mib": 78.46875,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1278320999990683,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 102.79296875,
+    "idle_rss_mib": 78.44921875,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5648196999991342,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 166.89453125,
+    "idle_rss_mib": 78.5,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 2,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5598459999982879,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 110.3515625,
+    "idle_rss_mib": 78.35546875,
+    "rows": 1000000,
+    "method": "csv_chunk",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.5981864000004862,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 167.0625,
+    "idle_rss_mib": 78.5390625,
+    "rows": 1000000,
+    "method": "csv_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 1.213123600000472,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 127.24609375,
+    "idle_rss_mib": 78.40625,
+    "rows": 1000000,
+    "method": "csv_typed",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 2.953549200001362,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 417.68359375,
+    "idle_rss_mib": 78.48828125,
+    "rows": 1000000,
+    "method": "csv_full",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1938532000003761,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 190.58984375,
+    "idle_rss_mib": 78.42578125,
+    "rows": 1000000,
+    "method": "parquet_columns",
+    "repetition": 3,
+    "correct": true
+  },
+  {
+    "elapsed_s": 0.1846837000011874,
+    "result": [
+      {
+        "province_name": "Hà Nội",
+        "count": 1572,
+        "price_sum": 5580118759998.0,
+        "mean_price": 3549693867.683206
+      }
+    ],
+    "peak_rss_mib": 103.1171875,
+    "idle_rss_mib": 78.61328125,
+    "rows": 1000000,
+    "method": "duckdb_parquet",
+    "repetition": 3,
+    "correct": true
+  }
+]

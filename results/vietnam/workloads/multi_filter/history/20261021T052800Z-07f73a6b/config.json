@@ -1,0 +1,41 @@
+{
+  "run_id": "20261021T052800Z-07f73a6b",
+  "dataset": "vietnam",
+  "query": "province",
+  "filters": {
+    "area_min": 50.0,
+    "area_max": 100.0,
+    "price_min": 1.0,
+    "price_max": 5000000000.0,
+    "province": "Hà Nội",
+    "property_type": "Nhà"
+  },
+  "sizes": [
+    1000000
+  ],
+  "repeats": 3,
+  "chunksize": 50000,
+  "methods": [
+    "csv_full",
+    "csv_columns",
+    "csv_typed",
+    "csv_chunk",
+    "parquet_columns",
+    "duckdb_parquet"
+  ],
+  "inputs": [
+    {
+      "rows": 1000000,
+      "csv": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.csv",
+        "bytes": 143190302,
+        "sha256": "79cf74f111f740564610c36a06932c2755b1dc0a78103ccf4607ce8aea785583"
+      },
+      "parquet": {
+        "path": "C:\\Users\\MY PC\\Documents\\ChatGPT\\NMKHDL\\data\\vietnam\\benchmark\\estate_1000000.parquet",
+        "bytes": 33756697,
+        "sha256": "743e135b427938d56637e146c64ed45892acdc2d7128acbf0276ecc56fef85ca"
+      }
+    }
+  ]
+}
